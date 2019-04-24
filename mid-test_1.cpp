@@ -1,3 +1,9 @@
+/*
+Author      : Aithra Junia Bouty
+NPM         : 140810180054
+Deskripsi   : single linked list
+Tahun       : 2019
+*/
 #include <iostream>
 using namespace std;
 
